@@ -1,0 +1,1 @@
+export default ['MODERATOR', 'TRAINER'];
